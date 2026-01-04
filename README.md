@@ -27,14 +27,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HarshitKamriya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-## 🧑‍💻 About Me
 
-I'm an Information Technology undergraduate at NIT Srinagar, passionate about **machine learning**, **AI-powered systems**, and **full-stack development**.  
-
-- 🔎 Interested in **ML research**, **LLM-based applications**, and **data-driven systems**
-- 🤖 Currently building **RAG-based AI teaching models** and experimenting with **LLM integration**
-- 🧠 Regular competitive programmer on **LeetCode**, **Codeforces**, and **GFG**
-- 🚀 Actively looking for **ML / AI research internship opportunities**
 
 
 <p align="center">
@@ -89,6 +82,14 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 
 ---
 ---
+## 🧑‍💻 About Me
+
+I'm an Information Technology undergraduate at NIT Srinagar, passionate about **machine learning**, **AI-powered systems**, and **full-stack development**.  
+
+- 🔎 Interested in **ML research**, **LLM-based applications**, and **data-driven systems**
+- 🤖 Currently building **RAG-based AI teaching models** and experimenting with **LLM integration**
+- 🧠 Regular competitive programmer on **LeetCode**, **Codeforces**, and **GFG**
+- 🚀 Actively looking for **ML / AI research internship opportunities**
 
 ## 🛠 Tech Stack
 
