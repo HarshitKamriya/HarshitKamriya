@@ -36,12 +36,12 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://x.com/HarshitKamriya" target="_blank" title="Follow me on X">
-  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="filter: brightness(0) saturate(100%) invert(29%) sepia(100%) saturate(7470%) hue-rotate(200deg) brightness(95%) contrast(90%)" />
-</a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/harshitkamriya" target="_blank" alt="LinkedIn" title="Connect on LinkedIn">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://x.com/HarshitKamriya" target="_blank" title="Follow me on X">
+  <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="filter: invert(100%);"/>
+</a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/HarshitKamriya" target="_blank" title="GitHub">
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: invert(29%) sepia(100%) saturate(7470%) hue-rotate(200deg) brightness(95%) contrast(90%)" />
