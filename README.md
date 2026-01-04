@@ -1,15 +1,31 @@
-<!-- GitHub Profile README -->
+### Hi there 👋
+[![](https://github.com/HarshitKamriya/HarshitKamriya/blob/main/chat.svg)](https://x.com/HarshitKamriya)
 
-<h1 align="center">Hi, I'm Harshit Kamriya 👋</h1>
-<h3 align="center">B.Tech IT @ NIT Srinagar • Aspiring ML Researcher • Full-Stack & AI Enthusiast</h3>
+ <h3 align="center">A techie passionate about AI & ML </h3>
+ 
+
 
 <p align="center">
-  <a href="mailto:harshitkamriyanitsrinagar@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/harshitkamriya">LinkedIn</a> •
-  <a href="https://github.com/HarshitKamriya">GitHub</a>
+  <a href="https://github.com/HarshitKamriya/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=HarshitKamriya&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/HarshitKamriya/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HarshitKamriya&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
 </p>
 
----
+
+<br>
+
+
+
+
+
+
+
+
+<p align="center">
+  <a href="https://github.com/HarshitKamriya?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HarshitKamriya"/></a>
+  <a href="https://github.com/HarshitKamriya?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/HarshitKamriya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ## 🧑‍💻 About Me
 
@@ -20,6 +36,58 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 - 🧠 Regular competitive programmer on **LeetCode**, **Codeforces**, and **GFG**
 - 🚀 Actively looking for **ML / AI research internship opportunities**
 
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Harshit+Kamriya" alt="Harshit" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://x.com/HarshitKamriya" target="_blank" title="Follow me on X">
+  <img width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="filter: invert(100%);"/>
+</a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/harshitkamriya" target="_blank" alt="LinkedIn" title="Connect on LinkedIn">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/HarshitKamriya" target="_blank" title="GitHub">
+  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="filter: brightness(0) invert(1)" />
+</a></p>
+
+<br/>
+
+
+<!-- Social badges section -->
+
+<p align="center">
+  <a href="https://github.com/HarshitKamriya?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HarshitKamriya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/HarshitKamriya?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HarshitKamriya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/HarshitKamriya/Simple-View-Counter"></a>
+</p>
+
+<br/>
+
+
+<br/>  
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HarshitKamriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshitKamriya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitKamriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HarshitKamriya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo -->
+ ![](https://github-contributor-stats.vercel.app/api?username=HarshitKamriya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+<br/>  
+
+---
 ---
 
 ## 🛠 Tech Stack
