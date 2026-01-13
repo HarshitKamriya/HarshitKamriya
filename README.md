@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![](https://github.com/HarshitKamriya/HarshitKamriya/blob/main/chat.svg)](https://x.com/HarshitKamriya)
 
- <h3 align="center">A techie passionate about AI & ML </h3>
+ <h3 align="center">A techie passionate  </h3>
  
 
 
@@ -64,23 +64,6 @@
 <br/>
 
 
-<br/>  
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshitKamriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshitKamriya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitKamriya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HarshitKamriya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo -->
- ![](https://github-contributor-stats.vercel.app/api?username=HarshitKamriya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-<br/>  
-
 ---
 ---
 ## 🧑‍💻 About Me
@@ -88,9 +71,7 @@
 I'm an Information Technology undergraduate at NIT Srinagar, passionate about **machine learning**, **AI-powered systems**, and **full-stack development**.  
 
 - 🔎 Interested in **ML research**, **LLM-based applications**, and **data-driven systems**
-- 🤖 Currently building **RAG-based AI teaching models** and experimenting with **LLM integration**
 - 🧠 Regular competitive programmer on **LeetCode**, **Codeforces**, and **GFG**
-- 🚀 Actively looking for **ML / AI research internship opportunities**
 
 ## 🛠 Tech Stack
 
@@ -99,12 +80,12 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 - Data Structures & Algorithms (DSA), Problem Solving
 
 ### 🌐 Web Development
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+)
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript (ES6+),React
 - **Backend:** Node.js, Express.js  
 - **Backend Concepts:** REST APIs, Routing, Middleware, Async/Await, Basic Auth, CORS
 
 ### 🤖 Machine Learning & Data Science
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow(basic)
 - **ML Workflow:** Data preprocessing, EDA, model training, evaluation, and deployment-ready pipelines
 
 ### 🧬 AI / LLM Integration
@@ -115,51 +96,25 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 ### ⚙️ Tools & Platforms
 - **Version Control:** Git, GitHub  
 - **Deployment:** Netlify, GitHub Pages (static projects)  
-- **Dev Tools:** VS Code, Bolt AI
+- **Dev Tools:** VS Code
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🏡 Gurgaon Housing Price Prediction
-**Tech Stack:** Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Joblib  
-
 A machine learning project to predict housing prices based on the classic **California Housing dataset** (adapted to Gurgaon context).  
-- 🧹 Performed **data cleaning & preprocessing**
-- 📊 Conducted **EDA with visualizations**
-- 🤖 Trained multiple regression models and selected **Random Forest Regressor** as the best-performing model
-- 🎯 Implemented **hyperparameter tuning** and **model persistence** using Joblib
 
 🔗 **Repo:** [Gurgaon-House-Price-Project](https://github.com/HarshitKamriya/Gurgaon-House-Price-Project)
 
 ---
 
 ### 🧑‍🤝‍🧑 Coders-of-Delhi
-**Tech Stack:** Python (Standard Library Only)  
-
 A fundamentals-focused project that builds **recommendation-style features from scratch** without using external libraries.  
-- 🧹 Implemented **data cleaning and preprocessing**
-- 🧠 Built core logic for:
-  - “People you may know”
-  - “Books you may like”
-- 🎯 Focused on understanding how recommendation logic works **under the hood** by avoiding external dependencies
 
 🔗 **Repo:** [Coders-of-Delhi](https://github.com/HarshitKamriya/Coders-of-Delhi)
 
----
 
-### 💬 Gemini CLI Chatbot (Google Generative AI)
-**Tech Stack:** Python, Google Gemini 2.0 Flash API, REST API  
-
-A **terminal-based conversational AI chatbot** powered by Google’s Gemini 2.0 Flash model.  
-- 🖥️ Built an interactive **CLI chat interface**
-- 🌐 Integrated Gemini via **REST API** for real-time responses
-- 🧱 Designed code to be **modular and scalable**
-- 🛡️ Added **error handling**, graceful exit, and robust request handling
-
-🔗 **Repo:** [Chat-bot-using-Gemini-API](https://github.com/HarshitKamriya/Chat-bot-using-Gemini-API)
-
----
 
 ## 🏆 Achievements
 
@@ -167,7 +122,6 @@ A **terminal-based conversational AI chatbot** powered by Google’s Gemini 2.0 
 - 🧠 **1600+ LeetCode rating**
 - 🧩 Qualified internal **Smart India Hackathon (SIH)** hackathon round  
   - Role: **AI/ML + Backend Developer**
-- ⭐ **4★ in Python** on HackerRank
 - 🎯 **JEE Advanced Qualified 2024**
 
 ---
@@ -181,12 +135,10 @@ A **terminal-based conversational AI chatbot** powered by Google’s Gemini 2.0 
 
 ---
 
-## 📈 What I’m Currently Working On
-
-- 🧠 **RAG-based AI Teaching Model** to create interactive, intelligent learning assistants  
-- 🤖 Exploring more ways to integrate **LLMs** into real-world applications  
-- 💻 Improving problem-solving skills via **daily DSA & competitive programming**
-
+## 🔭 What I’m Currently Working On
+- Building automation scripts for Git repo cleanup and workflow optimization  
+- Practicing daily algorithm challenges on LeetCode  
+- Exploring latest technology 
 ---
 
 ## 📬 Let’s Connect
