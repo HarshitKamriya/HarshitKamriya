@@ -129,6 +129,35 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 - Exploring latest technology 
 ---
 
+
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/win_with_code_hk?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/HarshitKamriya/HarshitKamriya/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HarshitKamriya&label=Profile%20views&color=blue&style=flat" />
+</p>
+
+---
+
+
 ## 📬 Let’s Connect
 
 - 💌 Email: **[harshitkamriyanitsrinagar@gmail.com](mailto:harshitkamriyanitsrinagar@gmail.com)**  
