@@ -51,25 +51,6 @@
 <br/>
 
 
-<!-- Social badges section -->
-
-<p align="center">
-  <a href="https://github.com/HarshitKamriya?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/HarshitKamriya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/HarshitKamriya?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/HarshitKamriya?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/HarshitKamriya/Simple-View-Counter"></a>
-</p>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-
-
----
 ---
 
 ## 🧑‍💻 About Me
@@ -89,18 +70,16 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 - **Backend Concepts:** REST APIs, Routing, Middleware, Async/Await, Basic Auth, CORS
 
 ### 🤖 Machine Learning & Data Science
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow(basic)
+- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow,Kearas,
 - **ML Workflow:** Data preprocessing, EDA, model training, evaluation, and deployment-ready pipelines
 
 ### 🧬 AI / LLM Integration
-- **Google Gemini API (Gemini 2.0 Flash)**
-- Prompt Engineering
-- REST API-based model integration
+- Prompt Engineering, RAG (Pipeline)
 
 ### ⚙️ Tools & Platforms
 - **Version Control:** Git, GitHub  
-- **Deployment:** Netlify, GitHub Pages (static projects)  
-- **Dev Tools:** VS Code
+- **Deployment:** Netlify, GitHub Pages (static projects) , render,firebase
+- **Dev Tools:** VS Code(my most liked one),Cursor,Antigravity
 
 ---
 
@@ -114,22 +93,6 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 
 ---
 
-## 🎓 Certifications
-
-- 🧪 **Data Scientist Certificate** – Code With Harry  
-- 📚 **160+ DSA Problems Certificate** – GeeksforGeeks  
-- 🐍 **Python Certificate** – GeeksforGeeks  
-- 🧠 **Prompt Engineering Certificate** – IBM  
-
----
-
-## 🔭 What I’m Currently Working On
-- Building automation scripts for Git repo cleanup and workflow optimization  
-- Practicing daily algorithm challenges on LeetCode  
-- Exploring latest technology 
----
-
-
 
 # 🧠 LeetCode Stats
 
@@ -137,14 +100,6 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 <img src="https://leetcard.jacoblin.cool/win_with_code_hk?theme=dark&font=Karma&ext=contest"/>
 </p>
 
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/HarshitKamriya/HarshitKamriya/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
@@ -163,8 +118,6 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 - 💌 Email: **[harshitkamriyanitsrinagar@gmail.com](mailto:harshitkamriyanitsrinagar@gmail.com)**  
 - 💼 LinkedIn: **[linkedin.com/in/harshitkamriya](https://www.linkedin.com/in/harshitkamriya)**  
 - 🐙 GitHub: **[github.com/HarshitKamriya](https://github.com/HarshitKamriya)**  
-
-If you like my work, consider ⭐ starring some of my repositories!
 
 
 
