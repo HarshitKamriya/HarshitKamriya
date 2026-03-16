@@ -6,21 +6,6 @@
 
 
 <p align="center">
-  <a href="https://github.com/HarshitKamriya/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=HarshitKamriya&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
-  <a href="https://github.com/HarshitKamriya/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=HarshitKamriya&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-</p>
-
-
-<br>
-
-
-
-
-
-
-
-
-<p align="center">
   <a href="https://github.com/HarshitKamriya?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/HarshitKamriya"/></a>
   <a href="https://github.com/HarshitKamriya?tab=followers">
@@ -94,6 +79,18 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 ---
 
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HarshitKamriya&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+
+
 # 🧠 LeetCode Stats
 
 <p align="center">
@@ -102,6 +99,47 @@ I'm an Information Technology undergraduate at NIT Srinagar, passionate about **
 
 
 ---
+---
+
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshitKamriya&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitKamriya&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitKamriya&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitKamriya&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📅 Contribution Calendar
+
+<p align="center">
+<img src="https://ghchart.rshah.org/409ba5/HarshitKamriya" />
+</p>
+
+---
+
+
 
 
 # 👀 Profile Visitors
