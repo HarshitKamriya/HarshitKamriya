@@ -6,8 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm B.Tech Information Technology @ **NIT Srinagar**, passionate about **machine learning**, **AI-powered systems**, and **full-stack development**.  
-CGPA: 8.53
+B.Tech in Information Technology @ NIT Srinagar | Passionate about Machine Learning, AI-powered Systems, and Full-Stack Development | CGPA: 8.53
 ---
  
 ### 🛠️ Tech Stack
